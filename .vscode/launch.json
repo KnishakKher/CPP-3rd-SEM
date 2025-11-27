@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Knishak Kher/OneDrive/Documents/GitHub/CPP-3rd-SEM",
-      "program": "c:/Users/Knishak Kher/OneDrive/Documents/GitHub/CPP-3rd-SEM/build/Debug/outDebug",
+      "cwd": "c:/Users/Knishak Kher/OneDrive/Documents/GitHub/CPP-3rd-SEM/build/Debug/set 8",
+      "program": "c:/Users/Knishak Kher/OneDrive/Documents/GitHub/CPP-3rd-SEM/build/Debug/set 8/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
